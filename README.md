@@ -1,11 +1,12 @@
 # Bootstrap-Portfolio
 
-###About
+### About
 Boot Camp assignment to create a basic portfolio webside using Bootstrap CDN.
 
-##GitHub Page Link
+## GitHub Page Link
 [https://bigpoppachop.github.io/Bootstrap-Portfolio/](https://bigpoppachop.github.io/Bootstrap-Portfolio/)
-###Requirements
+
+### Requirements
 
 1. Create a `Bootstrap-Portfolio` repo with three html files titled `index.html`, `portfolio.html` and `contact.html`.
 
